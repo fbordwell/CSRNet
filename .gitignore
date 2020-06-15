@@ -1,0 +1,5 @@
+/venv/
+/runs/
+/checkpoints/
+/data/part_A_final/test_data/densitymaps/
+/data/part_A_final/train_data/densitymaps/
